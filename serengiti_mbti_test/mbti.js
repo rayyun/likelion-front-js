@@ -101,7 +101,7 @@ var result = {
                     책임감과 추진력이 강한 당신! 올해는 도전적으로 일을 주도해봐요.", 
         "best": "ESFP",
         "worst": "INFP",
-        "img": "ISTJ.png"
+        "img": "hippo.png"
     },
     "ISFJ": {
         "animal": "배려왕 부엉이", 
@@ -113,7 +113,7 @@ var result = {
                     남들과의 의견 조율에서는 좀 더 본인 의견을 내세우거나 본읜의 계획에서는 살짝 여유를 주는게 좋아요.", 
         "best": "ESTP",
         "worst": "ENFP",
-        "img": "ISFJ.png"
+        "img": "owl.png"
     },
     "INFJ": {
         "animal": "스케쥴러 물소", 
@@ -124,7 +124,7 @@ var result = {
                     완벽한 계획을 추구해요. 그만큼 추진력도 강해 주변에서 믿음직한 사람이라고 많이 들어요.", 
         "best": "ENFP",
         "worst": "ISTP",
-        "img": "INFJ.png"
+        "img": "buffalo.png"
     },
     "INTJ": {
         "animal": "선구자 치타", 
@@ -135,7 +135,7 @@ var result = {
                     미래를 낙관적으로 판단하는 성향이 있기 때문에 보다 더 강하게 목표를 향해 달려나가려 노력해요.", 
         "best": "ENTP",
         "worst": "ESTJ",
-        "img": "INTJ.png"
+        "img": "cheetah.png"
     },
     "ISTP": {
         "animal": "유연한 나무늘보", 
@@ -146,7 +146,7 @@ var result = {
                     하지만 때로는 생각만 과감하고 행동은 뜨뜻미지근한 경우가 있어 이상과 현실의 괴리감에 빠지기도 해요.", 
         "best": "ESTJ",
         "worst": "INFJ",
-        "img": "ISTP.png"
+        "img": "sloth.png"
     },
     "ISFP": {
         "animal": "무한긍정 거북이", 
@@ -156,7 +156,7 @@ var result = {
                     웬만해서는 항상 여유롭고, 재미있게 일을 진행하고 싶어해요. 그렇다보니 결정을 내려야하는 순간이 온다면 최대한 피하고 싶어해요.",
         "best": "ENFJ",
         "worst": "ESFP",
-        "img": "ISFP.png"
+        "img": "turtle.png"
     },
     "INFP": {
         "animal": "나잘알 코끼리", 
@@ -166,7 +166,7 @@ var result = {
                     하지만, 실행하는 중간에 생각대로 진행되지 않는다면 그 다음 단계로 가는데 망설임을 느끼곤 해요.", 
         "best": "ESFJ",
         "worst": "ISTJ",
-        "img": "INFP.png"
+        "img": "elephant.png"
     },
     "INTP": {
         "animal": "타짜 침팬지", 
@@ -176,7 +176,7 @@ var result = {
                     반복되는 걸 좋아하지 않는 성향 때문에 시행착오를 겪을 일이 많겠지만, 호기심이 가득한 당신에겐 시행착오조차 즐거움으로 다가올 거에요.", 
         "best": "ENTJ",
         "worst": "ESFJ",
-        "img": "INTP.png"
+        "img": "chimpanzee.png"
     },
     "ESTP": {
         "animal": "행동파 악어", 
@@ -187,7 +187,7 @@ var result = {
                     오늘의 할 일을 내일로 미루는 게 특기이긴 하지만 순발력이 좋고 긍정적이기 때문에 모든 순간에 즐거움을 느껴요.", 
         "best": "ISFJ",
         "worst": "ENTJ",
-        "img": "ESTP.png"
+        "img": "alligator.png"
     },
     "ESFP": {
         "animal": "모험가 미어캣", 
@@ -197,7 +197,7 @@ var result = {
                     내일은 내일의 해가 뜬다고 생각하기 때문이에요. 하지만 발등에 불이 떨어진 경우 빠르게 일을 처리하는 편이에요.", 
         "best": "ISTJ",
         "worst": "ISFP",
-        "img": "ESFP.png"
+        "img": "meerkat.png"
     },
     "ENFP": {
         "animal": "멋쟁이 사자", 
@@ -208,7 +208,7 @@ var result = {
                     집단 생활에서 계획이 잘 되어가고 있다면 좋아하는 동료들의 모습을 보고 더 힘을 얻어 일을 추진해요.", 
         "best": "INFJ",
         "worst": "ESTP",
-        "img": "ENFP.png"
+        "img": "lion.png"
     },
     "ENTP": {
         "animal": "도전가 태양새", 
@@ -219,7 +219,7 @@ var result = {
                     아이디어가 넘치는 당신. 아이디어를 이루기 위해 조금은 계획적으로 움직이면 더 발전할 수 있을 거에요!",
         "best": "INTJ",
         "worst": "ISFP",
-        "img": "ENTP.png"
+        "img": "sunbird.png"
     },
     "ESTJ": {
         "animal": "불도저 기린", 
@@ -230,7 +230,7 @@ var result = {
                     여유로운 느낌을 선호하지 않는 당신이지만, 때로는 휴식을 취해 미래를 도모할 줄 알아야해요.",
         "best": "ISTP",
         "worst": "INFJ",
-        "img": "ESTJ.png"
+        "img": "giraffe.png"
     },
     "ESFJ": {
         "animal": "리더 고릴라", 
@@ -240,7 +240,7 @@ var result = {
                     조금은 자신을 놓는 법을 배울 필요가 있어요. 리더가 되는 경우가 많아 일을 함께 추진할 때 모두가 계획을 잘 수행할 수 있도록 이끌어나가요.", 
         "best": "INFP",
         "worst": "INTP",
-        "img": "ESFJ.png"
+        "img": "gorilla.png"
     },
     "ENFJ": {
         "animal": "평화주의자 카피바라", 
@@ -250,7 +250,7 @@ var result = {
                     사람들을 굉장히 좋아하고 배려하지만, 보기보다 철저하고 현실적인 당신. 가끔은 자신만을 위한 계획을 세워보는 것도 좋아요.", 
         "best": "ISFP",
         "worst": "ENTP",
-        "img": "ENFJ.png"
+        "img": "capybara.png"
     },
     "ENTJ": {
         "animal": "단호박 판사 호랑이", 
@@ -260,7 +260,7 @@ var result = {
                     완벽함을 추구하기 때문에 스스로를 힘들게 할 수 있어요. 가끔은 사람들과 어울리며 여유를 즐겨봐요.", 
         "best": "INTP",
         "worst": "ESTP",
-        "img": "ENTJ.png"
+        "img": "tiger.png"
     }            
 };
 
@@ -296,7 +296,7 @@ function next() {
         ($("#TF").val() < 2) ? mbti += "F" : mbti += "T";
         ($("#JP").val() < 2) ? mbti += "P" : mbti += "J";
 
-        $("#img").attr("src", "images/" + result[mbti]["img"]);
+        $("#img").attr("src", "./images/" + result[mbti]["img"]);
         $("#animal").html(result[mbti]["desc"] + " " + result[mbti]["animal"] + "(" + mbti + ")");
 
         var explain = result[mbti]["explain"].replace(". ", ".<br><br>").replace("! ", "'!<br><br>").replace("? ", "?<br><br>");
@@ -305,9 +305,9 @@ function next() {
         // $("#explain").html(result[mbti]["explain"].replace(". ", ".\n\n"));
         $("#explain").html(explain);
         $("#best").html(result[result[mbti]["best"]]["animal"]);
-        $("#best-img").attr("src", "images/" + result[mbti]["best"] + ".png");
+        $("#best-img").attr("src", "./images/" + result[result[mbti]["best"]]["img"]);
         $("#worst").html(result[result[mbti]["worst"]]["animal"]);
-        $("#worst-img").attr("src", "images/" + result[mbti]["worst"] + ".png");
+        $("#worst-img").attr("src", "./images/" + result[result[mbti]["worst"]]["img"]);
     } else {
         $(".progress-bar").attr('style', 'width: calc(100/12*'+num+'%)');
         $("#title").html(q[num]["title"]);

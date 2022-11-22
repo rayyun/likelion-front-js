@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <title>세렝기티 동물 테스트</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
     <section class="start">
         <div class="container mx-auto">
-            <h1 class="mt-5 text-center">나랑 꼭 닮은 세렝기티 동물은?</h1>
+            <h1 class="main-title mt-5 text-center">세렝기티 동물 MBTI 테스트</h1>
+            <h2 class="sub-title mt-3 text-center">내년엔 바뀐 나의 모습을 보고 싶다! 내가 새해 계획을 세우는 모습은 어떤 동물 유형을 닮았을까?</h2>
+            <img class="title-img mt-5" src="./images/up-slash.png">
             <button type="button" class="btn btn-primary mt-5" onclick="start();">테스트 시작하기</button>
         </div>
     </section>
@@ -40,6 +42,17 @@
         </div>
     </section>
 
+    <section class="logo">
+        <img class="mt-5 likelion-logo" src="./images/likelion-logo.png" alt="likelion-logo">
+        <span class="mt-2 text-center copyright-text">Copyright 2020 LIKE LION all rights reserved</span>
+
+        <a class="mt-5 banner" href="https://www.codelion.net/catalog?utm_source=animal_test&utm_medium=web_lecture&utm_campaign=jocoding">
+            <img class="banner-img" src="./images/banner.png" alt="banner">
+        </a>
+    
+    </section>
+
+
     <input type="hidden" id="EI" value="0">
     <input type="hidden" id="SN" value="0">
     <input type="hidden" id="TF" value="0">
@@ -48,7 +61,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
-    <script src="mbti.js"></script>
+    <script src="./mbti.js"></script>
 
 </body>
 </html>
